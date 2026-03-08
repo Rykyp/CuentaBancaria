@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rykyp\\Downloads\\CuentaBancaria-main\\CuentaBancaria-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1565BA5-16E9-4DA3-B7CB-11BF0492AC78}|CuentaBancaria\\CuentaBancaria.csproj|c:\\users\\rykyp\\downloads\\cuentabancaria-main\\cuentabancaria-main\\cuentabancaria\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1565BA5-16E9-4DA3-B7CB-11BF0492AC78}|CuentaBancaria\\CuentaBancaria.csproj|solutionrelative:cuentabancaria\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED3B8C6-BE8C-485D-ADAD-FEC20B636DF7}|BancoTest1\\BancoTest1.csproj|c:\\users\\rykyp\\downloads\\cuentabancaria-main\\cuentabancaria-main\\bancotest1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED3B8C6-BE8C-485D-ADAD-FEC20B636DF7}|BancoTest1\\BancoTest1.csproj|solutionrelative:bancotest1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1565BA5-16E9-4DA3-B7CB-11BF0492AC78}|CuentaBancaria\\CuentaBancaria.csproj|c:\\users\\rykyp\\downloads\\cuentabancaria-main\\cuentabancaria-main\\cuentabancaria\\iservivioauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1565BA5-16E9-4DA3-B7CB-11BF0492AC78}|CuentaBancaria\\CuentaBancaria.csproj|solutionrelative:cuentabancaria\\iservivioauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\rykyp\\Downloads\\CuentaBancaria-main\\CuentaBancaria-main\\CuentaBancaria\\Class1.cs",
+              "RelativeDocumentMoniker": "CuentaBancaria\\Class1.cs",
+              "ToolTip": "C:\\Users\\rykyp\\Downloads\\CuentaBancaria-main\\CuentaBancaria-main\\CuentaBancaria\\Class1.cs",
+              "RelativeToolTip": "CuentaBancaria\\Class1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:08:55.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServivioAuditoria.cs",
+              "DocumentMoniker": "C:\\Users\\rykyp\\Downloads\\CuentaBancaria-main\\CuentaBancaria-main\\CuentaBancaria\\IServivioAuditoria.cs",
+              "RelativeDocumentMoniker": "CuentaBancaria\\IServivioAuditoria.cs",
+              "ToolTip": "C:\\Users\\rykyp\\Downloads\\CuentaBancaria-main\\CuentaBancaria-main\\CuentaBancaria\\IServivioAuditoria.cs",
+              "RelativeToolTip": "CuentaBancaria\\IServivioAuditoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:08:53.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\rykyp\\Downloads\\CuentaBancaria-main\\CuentaBancaria-main\\BancoTest1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BancoTest1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\rykyp\\Downloads\\CuentaBancaria-main\\CuentaBancaria-main\\BancoTest1\\UnitTest1.cs",
+              "RelativeToolTip": "BancoTest1\\UnitTest1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:37:11.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
